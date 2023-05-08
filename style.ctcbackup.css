@@ -1,0 +1,23 @@
+/*
+Theme Name:   Mitt Fina GeneratePress-barntema
+Theme URI:    http://example.com/twenty-fifteen-child/
+Author:       Fredde
+Template:     generatepress
+Version:      1.0.0
+*/
+
+body {
+    background-color: rgb(209, 151, 64);
+}
+
+.separate-containers .inside-article {
+    background-color: aqua;
+}
+
+.sidebar .widget {
+    background-color: rgb(233, 178, 159);
+}
+
+.separate-containers {
+    border: 1px solid black;
+}
